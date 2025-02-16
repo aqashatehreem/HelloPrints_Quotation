@@ -1,0 +1,32 @@
+[
+    {
+        "price": 4.8,
+        "delivery_time": 5,
+        "reliability": 9,
+        "accepted": 1
+    },
+    {
+        "price": 4.8,
+        "delivery_time": 5,
+        "reliability": 9,
+        "accepted": 1
+    },
+    {
+        "price": 4.5,
+        "delivery_time": 6,
+        "reliability": 8,
+        "accepted": 0
+    },
+    {
+        "price": 4.5,
+        "delivery_time": 6,
+        "reliability": 8,
+        "accepted": 1
+    },
+    {
+        "price": 4.5,
+        "delivery_time": 6,
+        "reliability": 8,
+        "accepted": 1
+    }
+]
